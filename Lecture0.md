@@ -17,7 +17,7 @@ GitHub is an Internet hosting service for software development and version contr
 
 ![](pictures/git_cartoon.png) 
 
-###  Let's start! Local software:
+###  Let's start! ocal software:
 
 make sure that you have `git` installed.
 
