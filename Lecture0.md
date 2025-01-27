@@ -11,13 +11,13 @@ Since software management is not officially part of this course, we will only co
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-### What is github?
+### What is s github?
 
 GitHub is an Internet hosting service for software development and version control using Git.
 
 ![](pictures/git_cartoon.png) 
 
-###  Let's start! Local software:
+###  Let's start! ocal software:
 
 make sure that you have `git` installed.
 
